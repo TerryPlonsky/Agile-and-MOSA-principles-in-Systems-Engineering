@@ -1,5 +1,5 @@
 # Agile-and-MOSA-principles-in-Systems-Engineering
-Paper and research data for the 2025 INCOSE Western States Regional Conference
+Research data for the 2025 INCOSE Western States Regional Conference
 This study aims to evaluate the alignment or misalignment of the principles between the AM and MOSA.
 First, a comprehensive literature review of both AM and MOSA principles was performed to support an
 assessment of their degree of mutual support, similarities, and differences. Then, each combination was
